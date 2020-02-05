@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "LockScreen": {
+      "commandName": "Project",
+      "sqlDebugging": false,
+      "nativeDebugging": false
+    }
+  }
+}
